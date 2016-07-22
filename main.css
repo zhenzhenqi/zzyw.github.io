@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Letter Gothic Bold';
+  src: url('Letter_Gothic_Std_Bold.woff2');
+  src: url('Letter_Gothic_Std_Bold.woff');
+  src: url('Letter_Gothic_Std_Bold.ttf');
+}
+
+body {
+  font-family: 'Letter Gothic Bold', serif;      
+  color: #91BED4;
+  /*background: #E1E6FA;*/
+  width: 100vw;
+  height: 100vh;
+  font-size: 30px;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+ max-width: 900px;
+ margin: auto;
+}
+
+
+p{
+ font-size: 24px;
+}
+
+a {
+ color: #183152;
+}
