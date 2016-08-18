@@ -1,13 +1,8 @@
-@font-face {
-  font-family: 'Letter Gothic Bold';
-  src: url('Letter_Gothic_Std_Bold.woff2');
-  src: url('Letter_Gothic_Std_Bold.woff');
-  src: url('Letter_Gothic_Std_Bold.ttf');
-}
 
 body {
-  font-family: 'Letter Gothic Bold', serif;      
-  color: #91BED4;
+font-family: 'Montserrat', sans-serif;
+  
+  color: #000;
   /*background: #E1E6FA;*/
   width: 100vw;
   height: 100vh;
@@ -16,12 +11,26 @@ body {
   margin: 0;
   padding: 0;
 }
-
+@media (max-width: 900px){
+  body {
+    padding: 15px;
+  }
+}
 #container {
  max-width: 900px;
  margin: auto;
 }
 
+h1 span {
+  font-weight: 100;
+  letter-spacing: -0.15em;
+  /*font-family: 'Oswald', sans-serif;*/
+  font-size: 150px;
+}
+
+h1 {
+  font-size: 50px;
+}
 
 p{
  font-size: 24px;
