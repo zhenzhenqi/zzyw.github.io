@@ -1,0 +1,38 @@
+{
+  "name": "zzyw",
+  "version": "1.0.0",
+  "description": "work of zzyw studio",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZZYW/zzyw.github.io.git"
+  },
+  "keywords": [
+    "zzyw",
+    "design",
+    "interactive",
+    "parametric",
+    "art",
+    "interactive arts",
+    "web design",
+    "ui",
+    "ux"
+  ],
+  "author": "yang wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZZYW/zzyw.github.io/issues"
+  },
+  "homepage": "https://github.com/ZZYW/zzyw.github.io#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.3",
+    "gulp-minify": "0.0.14",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "jshint": "^2.9.4"
+  }
+}

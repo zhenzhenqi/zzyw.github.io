@@ -1,0 +1,1 @@
+var right=5,tst=23,he=function(){console.log("test")};
