@@ -8,9 +8,9 @@
 # Site settings
 title: zzyw
 email: hi@zzywstudio.com
-description: 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+description: "zzyw is a new york based design & technology studio"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site
 author: yangwang
 
 

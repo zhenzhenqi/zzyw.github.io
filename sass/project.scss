@@ -1,0 +1,16 @@
+.project-page {
+  @media (min-width: $screen-sm-min) {
+    & > div {
+      padding-right: 0;
+    }
+  }
+  a {
+    text-decoration: underline;
+  }
+  .h3, h3 {
+    font-size: 2.5em;
+    font-weight: 800;
+    margin-bottom: 10px;
+    margin-top: 30px;
+  }
+}

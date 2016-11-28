@@ -1,0 +1,104 @@
+body {
+  font-family: $body-font;
+  padding-left: $body-left-padding;
+  padding-top: $body-top-padding;
+  @media (min-width: $screen-sm-min) {
+    padding-right: 0;
+  }
+  padding-right: $body-left-padding;
+  min-height: 100vh;
+}
+
+
+a {
+  font-style: italic;
+  color: $link-color;
+}
+
+
+p {
+  font-size: 18px;
+}
+
+li {
+  padding-left: 0;
+  list-style: none;
+}
+
+a.active, a:hover {
+  color: $color_highlight !important;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h3.page-title{
+  font-weight: 800;
+  font-size: 147px;
+  color: $color_black;
+  letter-spacing: -5.61px;
+  position: fixed;
+  top: -79px;
+  font-weight: 900;
+  margin-top: 0;
+  .page-date {
+    font-size: 20px;
+    display: inline-block;
+    letter-spacing: 0;
+    margin-left: 1em;
+  }
+}
+
+/*
+*************
+Main Nav
+*************
+*/
+
+.nav {
+  @media (max-width: $screen-sm-min){
+    background-color: white;
+    z-index: 100;
+  }
+  font-family: sans-serif;
+  position: fixed;
+  bottom: $body-bottom-padding;
+  left: $body-left-padding;
+
+  h2 {
+    font-weight: 800;
+    font-size: 20px;
+    color: $color_black;
+  }
+
+  .site-title {
+    h1 {
+      font-weight: 800;
+      font-size: 65px;
+      color: $color_black;
+      letter-spacing: -0.92px;
+      line-height: 65px;
+    }
+  }
+
+  .clients {
+    h2 {
+      margin-bottom: 2px;
+    }
+  }
+
+  .about {
+    position: absolute;
+    bottom: 54px;
+    left: 0;
+  }
+
+  li {
+    a {
+      font-size: 16px;
+      font-weight: normal;
+      color: $color_black;
+    }
+  }
+}

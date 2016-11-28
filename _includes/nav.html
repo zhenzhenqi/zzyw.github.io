@@ -1,0 +1,21 @@
+<div class="nav">
+<!-- desktop nav -->
+  <div class="clients">
+    <p style="opacity: 0.4">yo,<br>the site working in progress.<br>More content is being added everyday.</p>
+    <h2>Clients</h2>
+    {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.client }}</a>
+    </li>
+    {% endfor %}
+  </div>
+
+
+  <h2><a href="/studio">About</a></h2>
+
+
+  <div class="site-title">
+    <a href="{{ site.baseurl }}"><h1>{{ site.title }}</h1></a>
+  </div>
+
+</div>

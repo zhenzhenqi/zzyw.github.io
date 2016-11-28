@@ -1,1 +1,16 @@
-$base-font-size: 16px;
+$color_black: rgba(0,0,0,0.87);
+$color_highlight: #ff0000;
+
+//bootstrape
+$screen-sm-min: 768px;
+$screen-md-min: 992px;
+$screen-lg-min: 1200px;
+
+//typography
+$body-font: 'Space Mono', monospace;
+$link-color: $color_black;
+
+//layout
+$body-left-padding: 43px;
+$body-top-padding: 167px;
+$body-bottom-padding: 0px;
