@@ -1,11 +1,14 @@
 ---
 ---
 
+@import "scrollbar.css";
 
-body {    
-    font-family: Arial, Helvetica, sans-serif;
+body {
+    font-family:  Helvetica, sans-serif;
+    // font-size: 1
+    margin: 0;
 }
-  
+
 #container {
     width: 100%;
     height: 100vh;
@@ -14,9 +17,33 @@ body {
     flex-wrap: wrap;
     justify-content: flex-start;
 }
-  
+
 .home-col {
-    width: 300px;
     overflow-y: scroll;
-    height: 100vh;
+
+    padding: 15px;
+}
+
+#nav1,#nav2{
+  width: 15%;
+  max-width: 300px;
+  min-width: 150px;
+
+}
+
+#content {
+  width: 50%;
+  max-width: 500px;
+  min-width: 300px;
+  height: 100vh;
+}
+
+
+.noshow{
+  display: none;
+}
+
+a.selected {
+  background-color: #000;
+  color: #fff;
 }
