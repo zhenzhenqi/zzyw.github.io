@@ -1,6 +1,5 @@
 ---
 layout: default
-premalink: yang
 title: WANG Yang
 category: yang
 ---

@@ -11,7 +11,7 @@
 <body>
   <div id="container">
 
-
+    <!-- FIRST COLUMN -->
     <div id="nav1" class="home-col">
       <ul>
         {% for page in site.html_pages %}
@@ -22,19 +22,22 @@
       </ul>
     </div>
 
-
+    <!-- 2ND COLUMN! -->
     <div id="nav2" class="home-col">
       <ul>
         {% for post in site.posts %}
         {% if post.categories contains page.category %}
-        <li><a href="{{ post.url }}" link-cat="{{ post.title }}">{{ post.title }}</a></li>
+        <li><a href="{{ post.url }}" link-cat="{{ post.title }}">{{ post.title }}</a>
+        {{ post.excerpt }}
+        </li>
         {% endif %}
         {% endfor %}
       </ul>
     </div>
 
+    <!-- CONTENT -->
     <div id="content" class="home-col" post-title="{{ page.title }}" post-category="{{ page.category }}">
-      <h3>{{ page.title }}</h3>      
+      <h3>{{ page.title }}</h3>
       {{ content }}
     </div>
 

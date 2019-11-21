@@ -2,11 +2,13 @@
 ---
 
 @import "scrollbar.css";
+@import "links.css";
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
 
 body {
-    font-family:  Helvetica, sans-serif;
-    // font-size: 1
-    margin: 0;
+  font-family:  helvetica,arial, sans-serif;
+  font-size: 16px;
+  margin: 0;
 }
 
 #container {
@@ -20,14 +22,22 @@ body {
 
 .home-col {
     overflow-y: scroll;
-
-    padding: 15px;
+    height: 100%;
 }
 
 #nav1,#nav2{
   width: 15%;
   max-width: 300px;
-  min-width: 150px;
+  min-width: 200px;
+  p {
+    margin: 0;
+  }
+  li{
+    margin-bottom: 10px;
+  }
+}
+
+#nav1 {
 
 }
 
@@ -35,15 +45,4 @@ body {
   width: 50%;
   max-width: 500px;
   min-width: 300px;
-  height: 100vh;
-}
-
-
-.noshow{
-  display: none;
-}
-
-a.selected {
-  background-color: #000;
-  color: #fff;
 }

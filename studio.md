@@ -1,7 +1,7 @@
 ---
 layout: default
-title: QI Zhenzhen
-category: zz
+title: "ZZYW Studio"
+category: studio
 ---
 
 Zhenzhen Qi is a technologist, researcher and educator. She is fascinated by employing computational languages to create alternative spaces where patterns are shifted, expectations are broken, and conditions for new becomings emerge.
