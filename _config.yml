@@ -3,7 +3,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
 permalink: /:categories/:title
 
-
+sass:
+    style: compressed
+    sass_dir: assets/_scss
 
 gems:
   - jekyll-babel

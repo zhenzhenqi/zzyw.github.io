@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 156 156" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421" style="white-space: preserve-spaces;">
+    <style>
+@keyframes a0_t { 0% { transform: translate(-28.8496px,-58.8553px) scale(0.235785,0.235785); } 55.5555% { transform: translate(-28.8496px,-58.8553px) scale(0.235785,0.235785); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 66.6666% { transform: translate(-28.8496px,-32.8553px) scale(0.235785,0.235785); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 77.7777% { transform: translate(-28.8496px,-58.8553px) scale(0.235785,0.235785); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 88.8888% { transform: translate(-28.8496px,-32.8553px) scale(0.235785,0.235785); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(-28.8496px,-58.8553px) scale(0.235785,0.235785); } }
+    </style>
+    <g transform="translate(-28.8496,-58.8553) scale(0.235785,0.235785)" style="animation: 3.6s linear infinite both a0_t;">
+        <path d="M77.521,74.911L119.8,21.613L137.252,21.613L77.521,96.911L17.789,21.613L35.241,21.613L77.521,74.911Z" fill="rgb(76,141,255)" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421" transform="translate(122.356,249.614) scale(4.24115,4.24115)"/>
+    </g>
+</svg>

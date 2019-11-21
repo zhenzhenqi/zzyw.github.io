@@ -1,0 +1,31 @@
+
+
+a {
+  text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  color: $global-color;
+}
+
+/* visited link */
+a:visited {
+  color: $global-color;
+}
+
+/* mouse over link */
+a:hover {
+  color: #000;
+}
+
+/* selected link */
+a:active {
+  color: $global-color;
+}
+
+a.selected {
+  font-weight: 900;
+  background: $global-color;
+  color: white;
+}

@@ -1,15 +1,13 @@
 ---
 ---
 
-@import "scrollbar.css";
-@import "links.css";
+@import 'variables';
+@import "scrollbar";
+@import "links";
+@import "bases";
+
 @import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
 
-body {
-  font-family:  helvetica,arial, sans-serif;
-  font-size: 16px;
-  margin: 0;
-}
 
 #container {
     width: 100%;
@@ -22,13 +20,25 @@ body {
 
 .home-col {
     overflow-y: scroll;
+    // border: 1px solid;
     height: 100%;
+    padding: 0 30px;
 }
 
-#nav1,#nav2{
-  width: 15%;
+ul {
+  // background:
+  border: 3px $global-color solid;
+  padding: 20px;
+}
+#nav1 {
+  // font-size: $fontsize-normal * 1.5;
+}
+#nav2 {
+  // font-size: $fontsize-normal * 1.2;
+}
+#nav1, #nav2{
   max-width: 300px;
-  min-width: 200px;
+  min-width: 150px;
   p {
     margin: 0;
   }
@@ -37,12 +47,8 @@ body {
   }
 }
 
-#nav1 {
-
-}
 
 #content {
-  width: 50%;
-  max-width: 500px;
+  max-width: 600px;
   min-width: 300px;
 }
