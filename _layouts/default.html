@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+</head>
+
+<body>
+  <div id="container">
+
+
+    <div id="nav1" class="home-col">
+      <ul>
+        {% for page in site.html_pages %}
+        {% if page.title %}
+        <li><a href="{{ page.url }}" cat="{{ page.category }}">{{ page.title }}</li></a>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+
+
+    <div id="nav2" class="home-col">
+      <ul>
+        {% for post in site.posts %}
+        {% if post.categories contains page.category %}
+        <li><a href="{{ post.url }}" cat="{{ post.title }}">{{ post.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div id="content" class="home-col">      
+      <h3 id="post-title">{{ page.title }}</h3>
+      {{ content }}
+    </div>
+
+
+  </div>
+
+  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+</body>
+
+</html>
