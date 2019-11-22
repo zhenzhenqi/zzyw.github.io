@@ -25,11 +25,7 @@
     padding: 0 30px;
 }
 
-ul {
-  // background:
-  border: 3px $global-color solid;
-  padding: 20px;
-}
+
 #nav1 {
   // font-size: $fontsize-normal * 1.5;
 }
@@ -42,6 +38,13 @@ ul {
   p {
     margin: 0;
   }
+
+  ul {
+    border: 3px $global-color solid;
+    padding: 20px;
+    list-style: none;
+  }
+
   li{
     margin-bottom: 10px;
   }
