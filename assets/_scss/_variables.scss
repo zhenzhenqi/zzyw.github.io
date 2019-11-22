@@ -1,11 +1,12 @@
 // font stuff!
 $font:  Arial, sans-serif;
-$fontsize-base: 12px;
+$fontsize-base: 14px;
 $fontsize-normal: 1em;
 $fontsize-small: 0.8em;
 
 // colors!!
-$accent-color: #2510b0;
+$accent-color: adjust-color(blue, $lightness: -14%);
+$accent-accent-color: adjust-color(green, $lightness: -10%);
 $text-color: #000;
 $background-color: #fff;
 
