@@ -1,32 +1,26 @@
-
-
 a {
   text-decoration: none;
 }
-
 /* unvisited link */
 a:link {
-  color: $global-color;
+  color: $accent-color;
 }
-
 /* visited link */
 a:visited {
-  color: $global-color;
+  color: $accent-color;
 }
-
 /* mouse over link */
 a:hover {
   color: #000;
 }
-
 /* selected link */
 a:active {
-  color: $global-color;
+  color: $accent-color;
 }
 
 a.selected {
   // font-weight: 900;
-  background: $global-color;
+  background: $accent-color;
   color: white;
-  padding: 0px 5px;
+  padding: 0 5px;
 }

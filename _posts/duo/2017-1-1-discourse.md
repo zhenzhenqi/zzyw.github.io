@@ -2,7 +2,7 @@
 layout: default
 title: "Discourse"
 category: duo
-tags: [pedagogy, events]
+tags: [pedagogy, events, practice]
 excerpt: Discourse a pilot practice of alternative education. It promotes empirical and spontaneous exchanges and evokes for a new form of convergence.
 ---
 <div class="sm-img" markdown="1">

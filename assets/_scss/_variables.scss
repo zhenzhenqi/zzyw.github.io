@@ -1,11 +1,17 @@
-$fontsize-base: 14px;
+// font stuff!
+$font:  Arial, sans-serif;
+$fontsize-base: 12px;
 $fontsize-normal: 1em;
 $fontsize-small: 0.8em;
-$global-color: #2403fc;
-$font:  Arial, sans-serif;
+
+// colors!!
+$accent-color: #2510b0;
+$text-color: #000;
+$background-color: #fff;
 
 
-$scrollbar-width: 6px;
+// scroll bar stuff
+$scrollbar-width: 10px;
 $scrollbar-background-color: none;
-$scrollbar-handle-color: rgb(240,240,240);
-$scrollbar-handle-hover-color: #000;
+$scrollbar-handle-color: $accent-color;
+$scrollbar-handle-hover-color: $text-color;

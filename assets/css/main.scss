@@ -20,13 +20,14 @@
 
 .home-col {
     overflow-y: scroll;
-    // border: 1px solid;
     height: 100%;
-    padding: 0 2vw;
+    padding: 0 20px;
 }
 
 .home-col.arrow {
   padding: 0;
+  padding: 0px;
+  overflow-y: auto;
   & > div{
     padding-top: 50px;
   }
@@ -36,37 +37,37 @@
   max-width: 400px;
 }
 
+.tags {
+  opacity: 0.5;
+}
 
 #nav1 {
   max-width: 200px;
   min-width: 100px;
 }
 #nav2 {
-  max-width: 300px;
-  min-width: 200px;
+  width: 20vw;
+  max-width: 250px;
+  min-width: 150px;
   img {
-    width: 160px;
+    width: 100%;
+    max-width: 160px;
   }
-  // img {filter: grayscale(100%);}
 }
 
 #nav1, #nav2{
-
   p {
     margin: 0;
   }
-
   ul {
-    // border: 3px $global-color solid;
-    // padding: 20px;
     padding-left: 0;
     list-style: none;
   }
-
 }
 
 
 #content {
-  max-width: 550px;
-  min-width: 300px;
+  flex: 1;
+  min-width: 400px;
+  max-width: 600px;
 }

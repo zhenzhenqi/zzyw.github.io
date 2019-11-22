@@ -3,6 +3,7 @@ layout: default
 title: "Book of Happiness"
 category: duo
 excerpt: A notebook, inside which a person’s happy memories are represented and analyzed using Statistical Regression Analysis and Parametric Design.
+tags: [digital-sculpture, algorithmic]
 
 ---
 
