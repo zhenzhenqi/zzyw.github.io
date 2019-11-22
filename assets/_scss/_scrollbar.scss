@@ -2,20 +2,20 @@
 
 /* width */
 ::-webkit-scrollbar {
-  width: 10px;
+  width: $scrollbar-width;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-  // background: rgb(240, 240, 240);
+  background: $scrollbar-background-color;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: $global-color;
+  background: $scrollbar-handle-color;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: $scrollbar-handle-hover-color;
 }

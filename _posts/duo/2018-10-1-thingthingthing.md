@@ -2,11 +2,10 @@
 layout: default
 title: "ThingThingThing"
 category: duo
+excerpt: ThingThingThing is a platform, and a generative narrative made collectively. Every object in the world of ThingThingThing is contributed by an individual. As oppose to commanding objects directly using a controller, ThingThingThing’s framework asks the contributors to code behaviors patterns of the objects using computer language. Once the objects are absorbed into the ThingThingThing world, they become autonomous, follows their logics and make decisions on the go completely by itself. The object would interact with other objects and forming an endless narrative as a whole.
 ---
-
-物物物
-
 ![ttt_title](/assets/image/ttt_9.png)
+
 
 v1: 2018
 

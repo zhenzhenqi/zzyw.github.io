@@ -30,7 +30,9 @@ h5 {
 }
 
 h6 {
-  font-size: $fontsize-normal;
+  font-size: $fontsize-small;
+  opacity: 0.5;
+  margin: 0;
 }
 
 p {

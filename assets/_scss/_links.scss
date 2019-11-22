@@ -25,7 +25,8 @@ a:active {
 }
 
 a.selected {
-  font-weight: 900;
+  // font-weight: 900;
   background: $global-color;
   color: white;
+  padding: 0px 5px;
 }
