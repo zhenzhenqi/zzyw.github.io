@@ -2,25 +2,18 @@
 layout: default
 title: "ThingThingThing"
 category: duo
-excerpt: ThingThingThing is a platform, and a generative narrative made collectively. Every object in the world of ThingThingThing is contributed by an individual. As oppose to commanding objects directly using a controller, ThingThingThing’s framework asks the contributors to code behaviors patterns of the objects using computer language. Once the objects are absorbed into the ThingThingThing world, they become autonomous, follows their logics and make decisions on the go completely by itself. The object would interact with other objects and forming an endless narrative as a whole.
 tags: [simulation, participatory, open-source]
 ---
 ![ttt_title](/assets/image/ttt_9.png)
+ThingThingThing is a platform, and a generative narrative made collectively. Every object in the world of ThingThingThing is contributed by an individual. As oppose to commanding objects directly using a controller.
 
-
-v1: 2018
-
-v2: 2019
+ThingThingThing’s framework asks the contributors to code behaviors patterns of the objects using computer language. Once the objects are absorbed into the ThingThingThing world, they become autonomous, follows their logics and make decisions on the go completely by itself. The object would interact with other objects and forming an endless narrative as a whole.
 
 [Github Repository](https://github.com/ZZYW/ThingThingThing)
 
 Download Build:
 
 [Mac](https://github.com/ZZYW/ThingThingThing/releases/download/v1.42-alpha/ttt_1.42_alpha_mac.app.zip), [Win](https://github.com/ZZYW/ThingThingThing/releases/download/v1.42-alpha/ttt_1.42_alpha_PC.zip)
-
-### what is it
-
-ThingThingThing is a platform, and a generative narrative made collectively. Every object in the world of ThingThingThing is contributed by an individual. As oppose to commanding objects directly using a controller, ThingThingThing’s framework asks the contributors to code behaviors patterns of the objects using computer language. Once the objects are absorbed into the ThingThingThing world, they become autonomous, follows their logics and make decisions on the go completely by itself. The object would interact with other objects and forming an endless narrative as a whole.
 
 ThingThingThing explores the possibility of using open source platform as a way to make narrative collectively, in an effort to redefine what it means to co-create in the age of Internet.
 

@@ -24,7 +24,9 @@
       </ul>
     </div>
 
-    <div class="home-col arrow"><div>&rarr;</div></div>
+    <div class="home-col arrow">
+      <div>&rarr;</div>
+    </div>
 
     <!-- 2ND COLUMN! -->
     <div id="nav2" class="home-col">
@@ -33,8 +35,8 @@
         {% for post in site.posts %}
         {% if post.categories contains page.category %}
         <li><a href="{{ post.url }}" link-cat="{{ post.title }}">{{ post.title }}</a>
-        <p class="tags">{% for tag in post.tags %}{{ tag }} / {% endfor %}</p>
-        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+          <p class="tags">{% for tag in post.tags %}{{ tag }} / {% endfor %}</p>
+          <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
         </li>
         -
         {% endif %}
@@ -42,12 +44,14 @@
       </ul>
     </div>
 
-      <div class="home-col arrow"><div>&rarr;</div></div>
+    <div class="home-col arrow">
+      <div>&rarr;</div>
+    </div>
 
     <!-- CONTENT -->
     <div id="content" class="home-col" post-title="{{ page.title }}" post-category="{{ page.category }}">
       <div id="content-container">
-      {{ content }}
+        {{ content }}
       </div>
     </div>
 
