@@ -3,6 +3,7 @@
 
 // highlight selected menu item based on current page meta data
 (function() {
+
   let postTitle = $("#content").attr('post-title');
   let postCategory = $("#content").attr('post-category');
 
@@ -14,7 +15,7 @@
     let attr = value.getAttribute("link-cat");
 
     if (attr === postCategory) {
-      $(value).addClass("selected");      
+      $(value).addClass("selected");
     }
   });
 
@@ -26,6 +27,17 @@
   })
 })();
 
+
+(function() {
+  $("img").each(function(value) {
+    let altValue = $(this).attr("alt");
+    let onlyNum = /^\d+$/.test(altValue);
+
+    if (onlyNum) {
+      this.style.cssText = "max-width: " + altValue + "px;";
+    }
+  })
+})();
 
 
 (function() {

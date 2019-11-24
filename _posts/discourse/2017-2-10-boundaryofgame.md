@@ -14,4 +14,4 @@ To a game designer – the Ontology of Game is a topic that’s almost impossibl
 The presenter would like to share his take on video game through the lense of Interactive Art and Design. He is also looking forward to learning more from your perspective.
 
 
-![](/assets/image/di/di_2.png)
+![400](/assets/image/di/di_2.png)
