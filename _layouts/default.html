@@ -18,8 +18,7 @@
         {% for page in sorted_pages %}
         {% if page.title %}
         <li><a href="{{ page.url }}" link-cat="{{ page.category }}">{{ page.title }}</li></a>
-        <p class="intro">{{ page.excerpt }}</p>
-        -
+        <p class="intro">{{ page.excerpt }}</p>        
         -
         {% endif %}
         {% endfor %}

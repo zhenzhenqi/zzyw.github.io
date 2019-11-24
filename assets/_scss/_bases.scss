@@ -10,20 +10,24 @@ img {
   max-width: 100%;
 }
 
+h1,h2,h3,h4 {
+  @include title-text-styling;
+}
+
 h1 {
-  font-size: $fontsize-normal * 1.5;
+  font-size: $fontsize-normal * 3;
 }
 
 h2 {
-  font-size: $fontsize-normal * 1.4;
+  font-size: $fontsize-normal * 2;
 }
 
 h3 {
-  font-size: $fontsize-normal * 1.3;
+  font-size: $fontsize-normal * 1.6;
 }
 
 h4 {
-  font-size: $fontsize-normal * 1.2;
+  font-size: $fontsize-normal * 1.3;
 }
 
 h5 {
@@ -31,9 +35,7 @@ h5 {
 }
 
 h6 {
-  font-size: $fontsize-small;
-  opacity: 0.5;
-  margin: 0;
+  font-size: $fontsize-normal * 0.9;
 }
 
 p {

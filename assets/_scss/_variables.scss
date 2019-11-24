@@ -16,3 +16,9 @@ $scrollbar-width: 10px;
 $scrollbar-background-color: none;
 $scrollbar-handle-color: $accent-color;
 $scrollbar-handle-hover-color: $text-color;
+
+
+@mixin title-text-styling {
+  letter-spacing: -0.065em;
+  font-weight: bold;
+}

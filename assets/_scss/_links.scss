@@ -20,7 +20,10 @@ a:active {
 
 a.selected {
   // font-weight: 900;
-  background: $accent-color;
-  color: white;
-  padding: 0 5px;
+  // background: $accent-color;
+  color: $text-color;
+  font-size: $fontsize-normal * 1.5;
+  font-weight: bold;
+  @include title-text-styling;
+  // padding: 0 5px;
 }

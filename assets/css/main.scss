@@ -1,10 +1,10 @@
 ---
 ---
-
 @import 'variables';
 @import "scrollbar";
 @import "links";
 @import "bases";
+@import "sass-code-highlight/colorful"; // 'monokai' as example
 
 #container {
     width: 100%;
@@ -44,6 +44,10 @@
   .intro {
     color: $accent-accent-color;
   }
+  li {
+    letter-spacing: -0.009em;
+    font-weight: 700;
+  }
 }
 
 #nav2 {
@@ -80,6 +84,6 @@
   max-width: 600px;
 
   .meta-title {
-    color: $accent-accent-color;    
+    color: $accent-accent-color;
   }
 }
