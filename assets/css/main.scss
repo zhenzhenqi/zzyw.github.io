@@ -41,10 +41,12 @@
 #nav1 {
   max-width: 200px;
   min-width: 100px;
+  .intro {
+    color: $accent-accent-color;
+  }
 }
 
 #nav2 {
-
   width: 20vw;
   max-width: 300px;
   min-width: 150px;
@@ -52,6 +54,13 @@
     width: 100%;
     max-width: 160px;
   }
+  .date {
+    opacity: 0.2;
+  }
+}
+#nav2.studio img{
+  width: 100%;
+  max-width: none;
 }
 
 #nav1, #nav2{
@@ -69,4 +78,8 @@
   flex: 1;
   min-width: 400px;
   max-width: 600px;
+
+  .meta-title {
+    color: $accent-accent-color;    
+  }
 }

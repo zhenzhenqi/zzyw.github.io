@@ -13,15 +13,20 @@
 
     <!-- FIRST COLUMN -->
     <div id="nav1" class="home-col">
-
       <ul>
-        {% for page in site.html_pages %}
+        {% assign sorted_pages = site.html_pages | sort:"order" %}
+        {% for page in sorted_pages %}
         {% if page.title %}
         <li><a href="{{ page.url }}" link-cat="{{ page.category }}">{{ page.title }}</li></a>
+        <p class="intro">{{ page.excerpt }}</p>
+        -
         -
         {% endif %}
         {% endfor %}
       </ul>
+
+
+
     </div>
 
     <div class="home-col arrow">
@@ -29,13 +34,16 @@
     </div>
 
     <!-- 2ND COLUMN! -->
-    <div id="nav2" class="home-col">
+    <div id="nav2" class="home-col {{ page.category }}" >
 
       <ul>
         {% for post in site.posts %}
         {% if post.categories contains page.category %}
-        <li><a href="{{ post.url }}" link-cat="{{ post.title }}">{{ post.title }}</a>
+
+          <li><a href="{{ post.url }}" link-cat="{{ post.title }}">{{ post.title }}</a>
+                    <span class="date">{{ post.date | date: "%Y-%m"}}</span>
           <p class="tags">{% for tag in post.tags %}{{ tag }} / {% endfor %}</p>
+
           <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
         </li>
         -
@@ -51,6 +59,18 @@
     <!-- CONTENT -->
     <div id="content" class="home-col" post-title="{{ page.title }}" post-category="{{ page.category }}">
       <div id="content-container">
+        <p class="meta">
+
+        {% if page.event_datetime %}
+          <span class="meta-title">Date&Time</span>:: {{ page.event_datetime }}
+        {% endif %}
+        {% if page.event_location %}
+          <br><span class="meta-title">Location</span>:: {{ page.event_location }}
+          <hr>
+        {% endif %}
+
+      </p>
+
         {{ content }}
       </div>
     </div>

@@ -14,7 +14,7 @@
     let attr = value.getAttribute("link-cat");
 
     if (attr === postCategory) {
-      $(value).addClass("selected");
+      $(value).addClass("selected");      
     }
   });
 
