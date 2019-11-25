@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 category: zz
 title: "Richard Jochum: New Playground"
 tags: [curatorial]

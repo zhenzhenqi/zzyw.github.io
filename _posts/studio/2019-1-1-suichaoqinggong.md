@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "Installation: HuaKaiSuiZhao 花开岁朝"
 category: studio
 tags: [immersive, installation, interactive]

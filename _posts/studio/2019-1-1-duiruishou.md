@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "Installation: RuiShou Making 堆瑞兽"
 category: studio
 tags: [immersive, installation]

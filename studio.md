@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "ZZYW Studio"
 category: studio
 order: 2

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "the mind ocean 脑海"
 category: yang
 tags: [simulation, installation]

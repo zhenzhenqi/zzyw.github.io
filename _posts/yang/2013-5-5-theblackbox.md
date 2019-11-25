@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "the black box"
 category: yang
 tags: [interactive, installation]

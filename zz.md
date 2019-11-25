@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: QI Zhenzhen
 category: zz
 order: 3

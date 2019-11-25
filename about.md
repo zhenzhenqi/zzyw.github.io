@@ -1,16 +1,15 @@
 ---
-layout: nav1-layout
+layout: main-single-nav
 title: About
 order: 6
 excerpt: bio., contact, stuff
 ---
-<div markdown=1>
-
-This is a archive site of everything WANG Yang and QI Zhenzhen did.
 
 
-WANG Yang 汪洋
-============
+<div class="col" markdown=1>
+
+## WANG Yang 汪洋
+
 
 Artist / Designer / Engineer
 
@@ -18,13 +17,12 @@ Yang is an independent designer, a computational media artist, and a computer en
 
 Yang holds a BFA from University of Science & Technology, Beijing (USTB) in Artistic Design and graduated from ITP, New York University, with a MPS at 2014. Through his computational art and design practice, Yang relates the systematic and analytical side of computer algorithms to the generative and aesthetic. His work critiques notions that invite closer examinations, or produces poetic images.
 
-Personal Site / Email
+email: y [at] zzywstudio.com
 </div>
 
-<div markdown=1>
+<div markdown=1 class="col">
 
-QI Zhenzhen 漆贞贞
-============
+## QI Zhenzhen 漆贞贞
 
 Educator / Mathematician / Technologist
 
@@ -34,18 +32,34 @@ Since 2014, she has taught computer art and creative technology courses and work
 
 Zhenzhen holds a BS from University of California, Berkeley and MPS from New York University. Zhenzhen is currently working for her Doctor of Education (EdD) in Computational Art Education at Teacher’s College, Columbia University.
 
+email: z [at] zzywstudio.com
+</div>
+
+<div class="col" markdown=1>
+
+## ZZYW Studio
+
+ZZYW Studio is a research studio based in New York and Brooklyn. It produces software application, installation, and text as instruments to examine the cultural, political and educational imprints of computational objects.
+
+
+
+ZZYW also produces interactive experiences for companies and organizations as a creative agency, with a focus on immersive landscape and alternative video games. For more information, please visit Agency Page.
+</div>
+
+<div class="col" markdown=1>
+
+## Discourse
+
+Since 2014, ZZYW has been maintaining a series of educational initiatives with universities and alternative spaces of learning, mining the potential of computation as a mode to express, speculate, and non-reduce. As an independent collective, ZZYW’s work has been exhibited in leading arts and culture institutions as Power Station of Art (Shanghai), the National Museum of China (Beijing), CultureHub (New York), among others.
+
 
 </div>
 
 
-ZZYW is a research studio based in New York and Brooklyn. It produces software application, installation, and text as instruments to examine the cultural, political and educational imprints of computational objects.
+<div class="col" markdown=1>
+## Contact
+For studio visit, collaboration inquiry, and questions, please send emails to
 
-Since 2014, ZZYW has been maintaining a series of educational initiatives with universities and alternative spaces of learning, mining the potential of computation as a mode to express, speculate, and non-reduce. As an independent collective, ZZYW’s work has been exhibited in leading arts and culture institutions as Power Station of Art (Shanghai), the National Museum of China (Beijing), CultureHub (New York), among others.
-
-ZZYW also produces interactive experiences for companies and organizations as a creative agency, with a focus on immersive landscape and alternative video games. For more information, please visit Agency Page.
-
-Contact
-For studio visit, collaboration inquiry, and questions, please send emails to hi@zzywstudio.com
-
+hi [at] zzywstudio.com
 
 </div>

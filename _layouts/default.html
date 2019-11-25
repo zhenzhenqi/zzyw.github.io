@@ -11,32 +11,7 @@
 <body>
   <div id="container">
 
-    {% include nav1.html %}
-
-
-    {% include nav2.html %}
-
-
-
-    <!-- CONTENT -->
-    <div id="content" class="home-col" post-title="{{ page.title }}" post-category="{{ page.category }}">
-      <div id="content-container">
-        <p class="meta">
-
-        {% if page.event_datetime %}
-          <span class="meta-title">Date&Time</span>:: {{ page.event_datetime }}
-        {% endif %}
-        {% if page.event_location %}
-          <br><span class="meta-title">Location</span>:: {{ page.event_location }}
-          <hr>
-        {% endif %}
-
-      </p>
-
-        {{ content }}
-      </div>
-    </div>
-
+    {{ content }}
 
   </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "Concept Art: Octopus Farm"
 category: studio
 tags: [rendering, still]

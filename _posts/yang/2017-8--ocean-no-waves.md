@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "no breaking waves"
 category: yang
 tags: [software, video]

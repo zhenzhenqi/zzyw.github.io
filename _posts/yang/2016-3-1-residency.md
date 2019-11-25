@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "the residence"
 category: yang
 tags: [simulation, video]

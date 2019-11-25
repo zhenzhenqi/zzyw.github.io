@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "Installation: Space Exploration"
 category: studio
 tags: [immersive, installation, interactive]

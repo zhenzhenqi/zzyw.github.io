@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 category: zz
 title: "exonemo: The Life-Cycle of Interfaces"
 tags: [curatorial]

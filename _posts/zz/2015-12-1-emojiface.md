@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 category: zz
 tags: [installation, software, interactive]
 title: "Emoji Face"

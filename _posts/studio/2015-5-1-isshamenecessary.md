@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "Is Shame Necessary?"
 category: studio
 tags: [interface-design, website, experimental]

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 category: discourse
 tags: [event]
 title: 'Artist Talk with NutBrother 坚果兄弟'

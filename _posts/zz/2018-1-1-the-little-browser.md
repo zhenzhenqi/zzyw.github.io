@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 category: zz
 title: "The Little Browser"
 tags: [installation, software]

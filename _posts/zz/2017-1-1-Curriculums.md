@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 category: zz
 tags: [teaching]
 title: "College Teachings"

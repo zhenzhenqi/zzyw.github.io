@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "space out on the balcony"
 category: yang
 tags: [software, video]

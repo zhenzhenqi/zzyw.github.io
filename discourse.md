@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Discourse
 order: 5
 category: discourse

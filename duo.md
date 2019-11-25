@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "WANG Yang<br>& QI Zhenzhen"
 category: duo
 order: 1

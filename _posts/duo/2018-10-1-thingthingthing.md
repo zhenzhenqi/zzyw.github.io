@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "ThingThingThing"
 category: duo
 tags: [simulation, participatory, open-source]

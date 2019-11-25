@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "Installation: Black Hole"
 category: studio
 tags: [immersive, installation, interactive]

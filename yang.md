@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: WANG Yang
 category: yang
 order: 4

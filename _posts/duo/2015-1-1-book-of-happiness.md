@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "Book of Happiness"
 category: duo
 
