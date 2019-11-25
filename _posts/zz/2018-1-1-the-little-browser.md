@@ -9,4 +9,6 @@ A little browser living inside a furry laptop shell. it's eager to make new frie
 
 ![](/assets/image/zz/zz_littlebrowser_2.jpg)
 
+<!-- more -->
+
 ![](/assets/image/zz/zz_littlebrowser.jpg)

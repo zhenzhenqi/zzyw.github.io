@@ -46,16 +46,10 @@
   .intro {
     color: $accent-accent-color;
   }
-
-  li {
-    letter-spacing: -0.009em;
-    font-weight: 700;
-  }
 }
 
 #nav2 {
   width: 20vw;
-  max-width: 300px;
   min-width: 130px;
 
   img {
@@ -77,6 +71,10 @@
 #nav2 {
   p {
     margin: 0;
+  }
+
+  li {
+    margin-bottom: 0.8rem;
   }
 
   ul {

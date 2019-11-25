@@ -1,0 +1,19 @@
+<!-- FIRST COLUMN -->
+<div id="nav1" class="home-col">
+  <ul>
+    {% assign sorted_pages = site.html_pages | sort:"order" %}
+    {% for page in sorted_pages %}
+    {% if page.title %}
+    <li>
+      <a href="{{ page.url }}" link-cat="{{ page.category }}">{{ page.title }}</a>
+      <p class="intro">{{ page.excerpt }}</p>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
+
+<div class="home-col arrow">
+  <div>&rarr;</div>
+</div>
