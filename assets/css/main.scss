@@ -91,19 +91,13 @@
   .meta-title {
     color: $accent-accent-color;
   }
-}
-#content-wider  {
-  flex:1;
-  min-width: 200px;
 
-  #content-container {
-    display: flex;
-    flex-direction: row;
+  strong {
+    font-weight: normal;
+    color: $accent-accent-color;
   }
-  .col {
-    max-width: 230px;
-    padding: 0 1em;
-  }
+
+
 }
 
 

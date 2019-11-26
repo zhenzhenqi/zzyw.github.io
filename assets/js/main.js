@@ -41,7 +41,7 @@
 
 
 (function() {
-  $("#content a").each(function(index, value) {
+  $("#content a, #content-wider a").each(function(index, value) {
     $(this).attr("target", "_blank");
   })
 })()
