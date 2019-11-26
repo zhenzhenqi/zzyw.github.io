@@ -1,4 +1,4 @@
-url: "https://zzyw.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.zzyw.org" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Z.Z.Y.W." # the name of your site, e.g. ACME Corp.
 permalink: /:categories/:title

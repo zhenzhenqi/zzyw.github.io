@@ -37,7 +37,7 @@ z@zzywstudio.com
 
 
 
-### Exhibitions of WANG & QI
+<!-- ### Exhibitions of WANG & QI
 
 
 #### Group Exhibition
@@ -57,7 +57,7 @@ z@zzywstudio.com
 
 - 06/2016: LENNA @ Chinatown Soup, New York, NY, US
 - 07/2016: The Mind Ocean, The Black Box, Sukhavati, Book of Happiness @ FL:EX Gallery, Shanghai, China
-- 05/2015: The Introspection Game @ Laboratory Gallery, Spokane, WA, US
+- 05/2015: The Introspection Game @ Laboratory Gallery, Spokane, WA, US -->
 
 
 
