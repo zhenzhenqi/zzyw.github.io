@@ -6,9 +6,6 @@ excerpt: bio., contact, stuff
 category: about
 ---
 
-
-<div class="col" markdown=1>
-
 ## The Duo
 
 ### WANG Yang 汪洋
@@ -41,8 +38,6 @@ z@zzywstudio.com
 
 
 
-</div>
-<div class="col" markdown=1>
 ### Exhibitions of WANG & QI
 
 
@@ -66,10 +61,6 @@ z@zzywstudio.com
 - 05/2015: The Introspection Game @ Laboratory Gallery, Spokane, WA, US
 
 
-</div>
-
-
-<div class="col" markdown=1>
 
 ## ZZYW Studio
 
@@ -87,6 +78,3 @@ Discourse is an independent project initiated by artist Yang Wang and Zhenzhen Q
 For studio visit, collaboration inquiry, and questions, please send emails to
 
 hi [at] zzywstudio.com
-
-
-</div>
