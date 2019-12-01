@@ -24,7 +24,7 @@ y@zzywstudio.com
 
 ### QI Zhenzhen 漆贞贞
 
-Zhenzhen Qi is an **educator, researcher, mathematician and technolgist** based in Brooklyn, New York.
+Zhenzhen Qi is an **educator, researcher, mathematician and technologist** based in Brooklyn, New York.
 
 Since 2014, she has taught computer art and creative technology courses and workshops on interactive media, web, and game development at [Columbia University, Teachers College](https://www.tc.columbia.edu/) and [City University of New York(CUNY) - Baruch College](https://www.baruch.cuny.edu/wsas/academics/performing_arts/index.htm) as **Adjunct Professor**, [New York Creative Tech Week](http://creativetechweek.nyc/), [Guangzhou Academy of Art (GAFA)](https://www.wikiwand.com/en/Guangzhou_Academy_of_Fine_Arts), [Power Station of Art](http://powerstationofart.com/en/), [Asia Art Archive in America](http://www.aaa-a.org/) etc. She is a member of [NEW INC](https://www.newinc.org/)at New Museum, and was the recipient of the **Creative Technology Fellowship** and **Macy Fellowship** at Columbia University. She is a technology resident artist at the New York based art institution [Pioneer Works](https://pioneerworks.org/technology/) at the year of 2020. She is the co-founded and **Director of Production** of NYC based research & production studio [ZZYW]({{ "/studio" | relative_url }}). Together with WANG Yang, she founded [Discourse]({{ "/discourse" | relative_url }}), an education space dedicated to exploring alternative forms of computational art practice, pedagogy, and critical theory.
 
