@@ -10,13 +10,13 @@ category: about
 
 ### WANG Yang 汪洋
 
-Yang is a **a computational media artist**, a **graphic designer**, and a **software developer** based in Brooklyn, New York. He is the co-founder and **Director of Art & Technology** of New York based research & production studio [ZZYW]({{ "/studio" | relative_url }}), and a co-initiator of the [Discourse]({{ "/discourse" | relative_url }}) project. Besides creating his own artwork and working with QI Zhenzhen.
+Yang is a **computational media artist**, a **graphic designer**, and a **software developer** based in Brooklyn, New York. He is the co-founder and **Director of Art & Technology** of New York based research & production studio [ZZYW]({{ "/studio" | relative_url }}), and a co-initiator of the [Discourse]({{ "/discourse" | relative_url }}) project. Besides creating his own artwork and working with QI Zhenzhen.
 
 He also works as a **Technical Artist & Developer** for simulation artist [Ian Cheng](http://iancheng.com/) founded production company [MetisSuns](http://metissuns.com/) since 2016. He is a member of New Museum led art & tech. incubator [NEW INC](https://www.newinc.org/) for the year of 2019 to 2020, and recently awarded a Technology Residency at the New York based art institution [Pioneer Works](https://pioneerworks.org/technology/). He was the former **Technical Director** of Shanghai based new media art agency *OUTPUT* Lab, and was the former **Interaction Designer** at New York Financial District based interaction design firm [Potion](https://www.potiondesign.com/).
 
 Throughout Yang’s practice, computation serves as both a tool for art-making, and the subject of study. His work utilizes simulation to recreate conditions for critical examination.
 
-Yang holds a **BA** from University of Science & Technology, Beijing (USTB) in **Artistic Design** and graduated from the **Interactive Telecommunication Program (ITP)**, New York University, with a **MPS** at 2014.
+Yang holds a **BA** from University of Science & Technology, Beijing (USTB) in **Artistic Design** and graduated from the **Interactive Telecommunication Program (ITP)**, New York University, with a **MPS** in 2014.
 
 email:      
 y@zzywstudio.com
