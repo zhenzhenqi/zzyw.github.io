@@ -18,10 +18,6 @@ Throughout Yang’s practice, computation serves as both a tool for art-making, 
 
 Yang holds a **BA** from University of Science & Technology, Beijing (USTB) in **Artistic Design** and graduated from the **Interactive Telecommunication Program (ITP)**, New York University, with a **MPS** in 2014.
 
-email:      
-y@zzywstudio.com
-
-
 ### QI Zhenzhen 漆贞贞
 
 Zhenzhen Qi is an **educator, researcher, mathematician and technolgist** based in Brooklyn, New York.
@@ -31,10 +27,6 @@ Since 2014, she has taught computer art and creative technology courses and work
 She is fascinated by employing computational languages to create alternative spaces where patterns are shifted, expectations are broken, and conditions for new becomings emerge.
 
 Zhenzhen holds a **BS** from University of California, Berkeley and a **MPS** from New York University, the **Interactive Telecommunication Program (ITP)**. Zhenzhen is currently working for her Doctor of Education (**EdD**) in Computational Art Education at Teacher’s College, Columbia University.
-
-email:      
-z@zzywstudio.com
-
 
 
 <!-- ### Exhibitions of WANG & QI
@@ -70,10 +62,3 @@ The studio work together with art and culture institutions to produces software 
 ## Discourse
 
 Discourse is an independent project initiated by artist Yang Wang and Zhenzhen Qi in Brooklyn, New York. Discourse is not merely a place for hour-long events, but also a space for playing video games, falling asleep, and sharing breakfast. With Discourse, conversation and discussions happen in any imaginable ways, not constrained by physical space and time. Discourse encourages natural and daily interaction and seeks to massage conversation into every corner of everyday life, instead of limiting thought exchanges in the form of analytical and reactive argument.  
-
-
-## Contact
-
-For studio visit, collaboration inquiry, and questions, please send emails to
-
-hi [at] zzywstudio.com
