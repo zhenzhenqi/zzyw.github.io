@@ -11,7 +11,11 @@ tags: [immersive, installation, interactive]
 
 **Client:**  *OUTPUT*(Shanghai) > *The Palace Museum* 故宫 (Beijing)
 
+
+
 Exhibited at *the Palace Museum* at Beijing
+
+[Promotional video](https://vimeo.com/381695547/e780d71ad9)
 
 We recreated one of the most well known painting collected by the Palace Museum,《岁朝图》. Employing modern day interactive technology, we infused life into the ancient painting, and brought it unprecedentedly closer to all visitor of the museum.
 
@@ -26,3 +30,11 @@ Installation view
 
 ![](/assets/image/gugong_suichao_2.gif)
 The Animated Painting (Screenshot)
+
+
+### Credits:
+
+- **Production**: OUTPUT
+- **Director of Technology**: Yang Wang 
+- **Creative Technologist**: Melody Hu  
+- **Designer**: DWorks  

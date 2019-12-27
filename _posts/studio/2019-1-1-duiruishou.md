@@ -12,6 +12,8 @@ tags: [immersive, installation]
 
 Exhibited at *the Palace Museum* at Beijing
 
+[Promotional video](https://vimeo.com/381695547/e780d71ad9)
+
 Making snow monster is another traditional winter activity in northern China, things are not different in the Palace Museum for the nobles. We took one famous painting 《乾隆帝岁朝行乐图》, and digitally re-created the fun activity, inside the Palace Museum of China, using modern day interactive technologies.
 
 You could simply stand in front of the screen, wave your hands, and summon snow from the sky. The snow fall to the ground. The playing kids in the painting would gather your snow to pile, and help you making the snow monster.
@@ -24,3 +26,9 @@ You could simply stand in front of the screen, wave your hands, and summon snow 
 
 
 ![](/assets/image/duiruishou_screenrec.gif)
+
+### Credits:
+
+- **Production**: OUTPUT
+- **Director of Technology**: Yang Wang 
+- **Designer**: DWorks  

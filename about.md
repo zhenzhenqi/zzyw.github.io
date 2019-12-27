@@ -2,9 +2,10 @@
 layout: main-single-nav
 title: About
 order: 6
-excerpt: bio., contact, stuff
 category: about
 ---
+
+
 
 ## The Duo
 
