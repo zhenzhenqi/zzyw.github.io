@@ -1,26 +1,29 @@
 a {
   text-decoration: none;
+  color: white;
+  background-color: black;
 }
 /* unvisited link */
 a:link {
-  color: $accent-color;
+  // color: $accent-color;
+  
 }
 /* visited link */
 a:visited {
-  color: $accent-color;
+  // color: $accent-color;
 }
 /* mouse over link */
 a:hover {
-  color: adjust-color($accent-color, $lightness: +30%);
+  background-color: cadetblue;
 }
 /* selected link */
 a:active {
-  color: $accent-color;
+  // color: $accent-color;
 }
 
 a.selected {
   // font-weight: 900;
-  // background: $accent-color;
+  background: white;
   color: $text-color;
   font-size: $fontsize-normal * 1.5;
   font-weight: bold;
