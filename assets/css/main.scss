@@ -1,32 +1,32 @@
 ---
 ---
 
-@import  "variables";
+@import "variables";
 @import "scrollbar";
 @import "links";
 @import "bases";
 @import "sass-code-highlight/colorful"; // 'monokai' as example
 
 #container {
-  width: 100%;
-  height: 100vh;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  width          : 100%;
+  height         : 100vh;
+  display        : flex;
+  flex-direction : row;
+  flex-wrap      : wrap;
   justify-content: flex-start;
 }
 
 .home-col {
   overflow-y: scroll;
-  height: 100%;
-  padding: 0 20px;
+  height    : 100%;
+  padding   : 0 20px;
 }
 
 .home-col.arrow {
-  padding: 0;
+  padding   : 0;
   overflow-y: auto;
 
-  & > div {
+  &>div {
     padding-top: 50px;
   }
 }
@@ -49,11 +49,21 @@
 }
 
 #nav2 {
-  width: 20vw;
+  width    : 20vw;
   min-width: 130px;
 
+  a {
+    background: none;
+    color     : black;
+  }
+
+  .title {
+    background: black;
+    color     : white;
+  }
+
   img {
-    width: 100%;
+    width    : 100%;
     max-width: 160px;
   }
 
@@ -63,7 +73,7 @@
 }
 
 #nav2.studio img {
-  width: 100%;
+  width    : 100%;
   max-width: none;
 }
 
@@ -79,12 +89,12 @@
 
   ul {
     padding-left: 0;
-    list-style: none;
+    list-style  : none;
   }
 }
 
 #content {
-  flex: 1;
+  flex     : 1;
   min-width: 200px;
   max-width: 600px;
 
@@ -94,29 +104,35 @@
 
   strong {
     font-weight: normal;
-    color: $accent-accent-color;
+    color      : $accent-accent-color;
   }
 
 
 }
 
 #contact-form {
-  input, textarea{
-      width: 100%;
-      border:none;
-      background-color: rgb(240,240,240);
-      margin: 10px 0;
-      font-family: serif;
-      font-size: 18px;
-      // padding: 10px;
+
+  input,
+  textarea {
+    width           : 100%;
+    border          : none;
+    background-color: rgb(240, 240, 240);
+    margin          : 10px 0;
+    font-family     : serif;
+    font-size       : 18px;
+    // padding      : 10px;
   }
-  input:focus,textarea:focus{
+
+  input:focus,
+  textarea:focus {
     outline: none;
 
   }
+
   input {
     height: 1em;
   }
+
   textarea {
     height: 300px;
   }
@@ -124,36 +140,40 @@
 
 
 @media screen and (max-width: 1200px) {
-  #content-wider  {
-    flex:1;
+  #content-wider {
+    flex     : 1;
     min-width: 200px;
-    height: 100vh;
+    height   : 100vh;
 
     #content-container {
-      display: flex;
+      display       : flex;
       flex-direction: column;
     }
+
     .col {
       max-width: none;
-      padding: 0 1em;
+      padding  : 0 1em;
     }
   }
 }
 
-@media screen and (max-width: 900px) and  (orientation: portrait){
+@media screen and (max-width: 900px) and (orientation: portrait) {
   .home-col {
-    height: auto;
-      padding: 0 15px;
+    height : auto;
+    padding: 0 15px;
   }
 
   #container {
-    width: 100vw;
+    width : 100vw;
     height: auto;
+
     .arrow {
       display: none;
     }
   }
-  #nav1,#nav2 {
+
+  #nav1,
+  #nav2 {
     .date {
       display: none;
     }
@@ -161,13 +181,17 @@
 
   #nav1 {
     width: 30vw;
+
     .intro {
       display: none;
     }
   }
+
   #nav2 {
     width: 50vw;
-    .excerpt, .tags {
+
+    .excerpt,
+    .tags {
       display: none;
     }
   }
@@ -176,25 +200,30 @@
 
 }
 
-@media screen and (max-width: 900px) and  (orientation: landscape){
-    #container {
-      flex-wrap: nowrap;
-    }
+@media screen and (max-width: 900px) and (orientation: landscape) {
+  #container {
+    flex-wrap: nowrap;
+  }
 
-    .excerpt, .tags, .intro, .arrow{
-      display: none;
-    }
+  .excerpt,
+  .tags,
+  .intro,
+  .arrow {
+    display: none;
+  }
 
-    #nav1 {
-      min-width: 50px;
-      // width: 5vw;
-    }
-    #nav2 {
-      width: 20vw;
-    }
-    #content {
+  #nav1 {
+    min-width: 50px;
+    // width : 5vw;
+  }
 
-      width: 30vw;
-    }
+  #nav2 {
+    width: 20vw;
+  }
+
+  #content {
+
+    width: 30vw;
+  }
 
 }
