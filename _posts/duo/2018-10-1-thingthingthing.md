@@ -60,19 +60,17 @@ Visit [https://github.com/ZZYW/ThingThingThing](https://github.com/ZZYW/ThingThi
 
 
 
-
-
-
 ![thingthingthing image](/assets/image/ttt_installation_1.jpg)
 ThingThingThing exhibiting at Power Station of Art, Shanghai
 
-### workshops
+### Workshops
 
 Besides the artistic exploration, as a platform, ThingThingThing is designed to be an open world with an extremely accessible interface. It allows the creative, including those who are not from a technical background, to create their own sentient beings, with a simple framework design and developed by ZZYW, and put the beings they created into the world of ThingThingThing. The participants will not only get to know what ThingThingThing is, but leaving with the bare bone knowledge about video game making, the basics of computer programming and procedural thinking.
 
 The list of institutions we have collaborated with:
 
-- NEW INC, New York
+- School of Visual Arts (SVA) [Forthcoming], New York
+- NEW INC, New Museum, New York
 - Macy Art Gallery, Teachers College, Columbia University;
 - Creative Tech Week(CTW) New York 2018;
 - Asia Art Archive in America
@@ -80,7 +78,7 @@ The list of institutions we have collaborated with:
 
 
 
-<!--
-![thingthingthing workshop image](/assets/image/ttt_workshop_psa.jpg)
-![thingthingthing workshop image](/assets/image/ttt_workshop_aaa.jpg)
-![thingthingthing workshop image](/assets/image/ttt_workshop_tc.jpg) -->
+
+![thingthingthing workshop image](/assets/image/ttt_workshop_psa_3_sm.jpg)
+
+
