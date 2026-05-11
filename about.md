@@ -21,7 +21,7 @@ Yang holds a **BA** from University of Science & Technology, Beijing (USTB) in *
 
 ### QI Zhenzhen 漆贞贞
 
-Zhenzhen Qi is an **educator, researcher, mathematician and technologist** based in Brooklyn, New York.
+Zhenzhen Qi is an **artidt, designer, researcher** based in Storrs, Connecticut.
 
 Since 2014, she has taught computer art and creative technology courses and workshops on interactive media, web, and game development at [Columbia University, Teachers College](https://www.tc.columbia.edu/) and [City University of New York(CUNY) - Baruch College](https://www.baruch.cuny.edu/wsas/academics/performing_arts/index.htm) as **Adjunct Professor**, [New York Creative Tech Week](http://creativetechweek.nyc/), [Guangzhou Academy of Art (GAFA)](https://www.wikiwand.com/en/Guangzhou_Academy_of_Fine_Arts), [Power Station of Art](http://powerstationofart.com/en/), [Asia Art Archive in America](http://www.aaa-a.org/) etc. She is a member of [NEW INC](https://www.newinc.org/)at New Museum, and was the recipient of the **Creative Technology Fellowship** and **Macy Fellowship** at Columbia University. She is a technology resident artist at the New York based art institution [Pioneer Works](https://pioneerworks.org/technology/) at the year of 2020. She is the co-founded and **Director of Production** of NYC based research & production studio [ZZYW]({{ "/studio" | relative_url }}). She co-founded [Pluralistic AI Lab](https://docs.google.com/document/d/e/2PACX-1vSNp-4ze4Mz6b3Ng5QpMdCW6MzwJvgSv1muY6348n5ckrAKAAdwwCELPtDq_yRZXDgDTYLZ_hX_Zrug/pub), a collaborative research initiative that aims to restore honest frictions into AI interactions. 
 
