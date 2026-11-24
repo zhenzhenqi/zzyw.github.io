@@ -2,9 +2,9 @@
 layout: main
 category: zz
 tags: [teaching]
-title: "Collaborative Narrative with AI"
+title: "Critical AI Bot Design"
 excerpt: "Generative-AI storytelling course for artists, designers, and developers."
-permalink: /teaching/collaborative_narrative_with_ai/
+permalink: /teaching/critical_ai_bot_design/
 ---
 
 <style>
